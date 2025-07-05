@@ -9,7 +9,7 @@ A classic Snake game where the player navigates the snake to eat food, grow long
 
 ## 👥 Collaborators
 - Sathiya Priya (@sathiyapriya04)
-- Sowntharayamurugan(@Sowndarya1199)
+- Sowndarayamurugan(@Sowndarya1199)
 
 ## ▶️ How to Run
 1. Install Python 3.x
