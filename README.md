@@ -27,5 +27,3 @@ A classic Snake game where the player navigates the snake to eat food, grow long
 - C to Play Again
 - Q to Quit
 
-## 📸 Screenshot
-(Add a screenshot of your game screen here if possible)
